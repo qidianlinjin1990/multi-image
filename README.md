@@ -1,5 +1,6 @@
 # multi-image
 A powerful image generation and editing plugin supporting multiple Al providers
+
 一个支持文生图和图生图的Obsidian插件
 
 支持添加多个文生图和图生图供应商，可以多轮对话，可以自定义提示词，可以自定义json参数。
